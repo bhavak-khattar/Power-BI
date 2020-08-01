@@ -12,5 +12,10 @@ The dashboards are as follows :
 The following are the screenshots of the dashboards : 
     
 1. Management Insights 
-[![](/Management Insights/Screenshot.PNG)]
+
+![](https://github.com/bhavak-khattar/Power-BI/blob/master/Management%20Insights/Screenshot.PNG)
+
+2. Retail Analytics 
+
+![](https://github.com/bhavak-khattar/Power-BI/blob/master/Retail%20Analytics/Screenshot.PNG)
 
