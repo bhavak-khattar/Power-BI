@@ -12,5 +12,5 @@ The dashboards are as follows :
 The following are the screenshots of the dashboards : 
     
 1. Management Insights 
-![](https://imgur.com/a/dBGwj4C)
+[![](/Management Insights/Screenshot.PNG)]
 
