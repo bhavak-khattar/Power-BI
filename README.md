@@ -12,7 +12,5 @@ The dashboards are as follows :
 The following are the screenshots of the dashboards : 
     
 1. Management Insights 
-[![](https://imgur.com/a/dBGwj4C)](https://imgur.com/a/dBGwj4C)
+![](https://imgur.com/a/dBGwj4C)
 
-2. Retail Analytics 
-[![](https://imgur.com/a/b0d4WVn)](https://imgur.com/a/b0d4WVn)
